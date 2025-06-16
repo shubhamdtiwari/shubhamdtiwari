@@ -14,7 +14,14 @@
 
 ### 🌐 **Web Development**  
 - 🎨 **HTML & CSS** – Crafting visually appealing & responsive UIs  
-- 🖥 **JavaScript (in progress)** – Adding interactivity to web applications  
+- 🖥 **JavaScript (in progress)** – Adding interactivity to web applications .
+
+### ⚛️ **Quantum Computing**
+- **Introduction to Quantum Computing:Quantum Algorithms and Qiskit(soon starting)** - Learing About the potencial of Quantum Computing
+
+
+### 🤖 **Machine Learning and Deep Leaning**
+- **Fundamentals and Applicxation(starting soon)** -- Learning about ML and Deep Leaning
 
 ### 🛠 **Technologies & Tools**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
@@ -59,7 +66,8 @@
 ✔ **Build full-stack web applications** with modern frameworks & best practices  
 ✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
 ✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
-✔ **Connect with passionate developers** and contribute to the global tech community  
+✔ **Connect with passionate developers** and contribute to the global tech community 
+✔ **Exploring the quantum computing and learn its potensial**
 
 ---
 
