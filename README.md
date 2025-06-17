@@ -66,7 +66,7 @@
 ✔ **Build full-stack web applications** with modern frameworks & best practices  
 ✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
 ✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
-✔ **Connect with passionate developers** and contribute to the global tech community 
+✔ **Connect with passionate developers** and contribute to the global tech community <br>
 ✔ **Exploring the quantum computing and learn its potensial**
 
 ---
