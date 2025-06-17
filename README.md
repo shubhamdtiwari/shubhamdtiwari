@@ -5,7 +5,10 @@
 
 ---
 
-## 🚀 **About Me**  
+## 🚀 **About Me** 
+- 🔹Myself SHUBHAM TIWARI  , I'm Currently doing by Bachelors in Computer Science and Engineering at TECHNOCRATES INSTITUTE with a
+     immense curiosity in learning and exploring technologies.
+- 🔹Currently I'm learning JavaScript and practising basics of coding in C language.
 ## 💻 **Tech Stack & Skills**  
 
 ### 🔥 **Programming Languages**  
@@ -31,14 +34,14 @@
 ### 🚀 **Currently Exploring**  
 - **Full-Stack Web Development** (MERN, Java-based frameworks)  
 - **App Development** (Dart/Flutter, Android Development)
-- **java Development** (Udemy Course)
+- **Java Development** (Udemy Course)
 - **Data Structures and Algorithms** (Geeks for Geeks Self-Paced)
--  **Machine Learning and Deep Learning** (NPTEL)
+- **Machine Learning and Deep Learning** (NPTEL)
 - **Introduction to Quantum Computing:Quantum Algorithms and Qiskit** (NPTEL)
 
 ---
 
-## **📌 My GitHub Stats & Activity**  
+## ** 📌 My GitHub Stats & Activity **
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamdtiwari&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -62,12 +65,11 @@
 ---
 
 ## 🎯 **My Goals & Aspirations**  
-✔ **Become a Java & DSA expert** for coding interviews & real-world problem-solving  
-✔ **Build full-stack web applications** with modern frameworks & best practices  
+✔ **Become a Java & DSA expert** for coding interviews & real-world problem-solving <br>
+✔ **Exploring the quantum computing and learn its potensial**
 ✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
 ✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
-✔ **Connect with passionate developers** and contribute to the global tech community <br>
-✔ **Exploring the quantum computing and learn its potensial**
+✔ **Connect with passionate developers** and contribute to the global tech community
 
 ---
 
@@ -79,4 +81,4 @@ I’m always open to discussions, collaborations, and networking. If you share a
   <a href="https://linkedin.com/in/shubhamdtiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-🚀 **"Code, innovate, and never stop learning!"** 🚀  
+🚀 **"Code, innovate, and never stop learning!  Peace out✌️✌️"** 🚀  
