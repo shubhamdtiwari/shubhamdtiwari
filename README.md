@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 **About Me** 
-  🔹Myself **SHUBHAM TIWARI**  , I'm Currently doing by **Bachelors in Computer Science and Engineering at TECHNOCRATS INSTITUTE** with a
+  🔹Myself **SHUBHAM TIWARI**  , I'm Currently doing my **Bachelors in Computer Science and Engineering at TECHNOCRATS INSTITUTE** with a
      immense curiosity in learning and exploring technologies. <br>
   🔹Currently I'm learning JavaScript and practising basics of coding in C language.
 ## 💻 **Tech Stack & Skills**  
