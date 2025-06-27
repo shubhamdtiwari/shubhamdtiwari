@@ -66,7 +66,7 @@
 
 ## 🎯 **My Goals & Aspirations**  
 ✔ **Become a Java & DSA expert** for coding interviews & real-world problem-solving <br>
-✔ **Exploring the quantum computing and learn its potensial**
+✔ **Exploring the quantum computing and learn its potensial** <br>
 ✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
 ✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
 ✔ **Connect with passionate developers** and contribute to the global tech community
