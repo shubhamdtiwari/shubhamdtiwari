@@ -74,12 +74,6 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 <br/>
 
 <div align="center">
-  <img src="https://github.com/shubhamdtiwari/shubhamdtiwari/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhamdtiwari&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 </p>
