@@ -52,31 +52,32 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 
 ## ** 📌 My GitHub Stats & Activity **
 
-<p align="center">
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shubhamdtiwari&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdtiwari&layout=compact&theme=radical&hide_border=true" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+
+  <p align="center">
+    <a href="https://github.com/shubhamdtiwari">
+      <img src="https://komarev.com/ghpvc/?username=shubhamdtiwari&style=for-the-badge&color=blueviolet" alt="Profile views" />
+    </a>
+  </p>
 </div>
 
+---
+
+
+
+
+
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdtiwari&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdtiwari&theme=tokyonight&hide_border=true&background=0D1117&ring=79FF97&currStreakLabel=79FF97" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamdtiwari&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <h3>⚡ Recent Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamdtiwari&bg_color=0D1117&color=79FF97&line=79FF97&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-</p>
+
+
 
 ---
 
