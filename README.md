@@ -82,7 +82,7 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 ---
 
 ## **🚀 Featured Projects & Repositories**  
-🌐 **[Web Dev Journey](https://github.com/shubhamdtiwari)** – Hands-on projects with HTML, CSS, and JS  
+🌐 **[Web Dev Journey - javaScript](https://github.com/shubhamdtiwari)** – Hands-on projects with HTML, CSS, and JS  
 🏗 **[Java Projects](https://github.com/shubhamdtiwari)** – Real-world applications built in Java  
 
 💡 Explore more on my **[GitHub Repositories](https://github.com/shubhamdtiwari)**  
