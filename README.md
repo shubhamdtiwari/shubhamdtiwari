@@ -82,7 +82,6 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 ---
 
 ## **🚀 Featured Projects & Repositories**  
-📂 **[Java Learning Repository](https://github.com/shubhamdtiwari)** – A collection of Java concepts & problem-solving techniques  
 🌐 **[Web Dev Journey](https://github.com/shubhamdtiwari)** – Hands-on projects with HTML, CSS, and JS  
 🏗 **[Java Projects](https://github.com/shubhamdtiwari)** – Real-world applications built in Java  
 
