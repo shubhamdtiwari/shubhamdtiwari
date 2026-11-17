@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28F7B6&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AIML+and+Deep+Learning+Enthusiast+🤖;Open+Source+Enthusiast;Quantum+Computing+Enthusiast+⚛️;Always+Learning+New+Tech;Coffee+Addict+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28F7B6&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Coffee+Addict+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,25 +15,20 @@
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
 I am a passionate developer based in **Bhopal**. I love building tools that make life easier.
-- 🔭 I’m currently working on **Java fundamentals**
-- 🌱 I’m currently learning **Rust and WebAssembly**
+- 🔭 I’m currently working on **Java Full Stack Projects**
+- 🌱 I’m currently learning **Backend Technology**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, and Cloud Architecture**
+- 💬 Ask me about **React, JavaScript and Java Full Stack**
 
-### 🔥 **Programming Languages**  
-- 🚀 **C** – Strong foundation in structured programming & problem-solving  
-- 🚀 **Java** – OOP, DSA, Java SE & beyond  
+###  **Programming Languages**  
+-  **C** – Strong foundation in structured programming & problem-solving
+-  **JavaScript** - Strong fundamentals in Closures, OOPS and Asynchronous JavaScript: Promises, Async/Await and AJAX
+-  **Java** – OOP, DSA, Java SE & beyond  
 
 ### 🌐 **Web Development**  
-- 🎨 **HTML & CSS** – Crafting visually appealing & responsive UIs  
-- 🖥 **JavaScript (in progress)** – Adding interactivity to web applications .
-
-### ⚛️ **Quantum Computing**
-- **Introduction to Quantum Computing:Quantum Algorithms and Qiskit(soon starting)** - Learing About the potencial of Quantum Computing
-
-
-### 🤖 **Machine Learning and Deep Leaning**
-- **Fundamentals and Applicxation(starting soon)** -- Learning about ML and Deep Leaning
+- 🎨 **HTML & CSS** – Crafting visually appealing & responsive UIs.
+- 🖥 **JavaScript** – Adding interactivity to web applications.
+- ⚛️ **React** - Building dynamic and interactive use interfaces(UIs).
 
 ### 🛠 **Technologies & Tools**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
@@ -41,12 +36,9 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 🚀 **Currently Exploring**  
-- **Full-Stack Web Development** (MERN, Java-based frameworks)  
-- **App Development** (Dart/Flutter, Android Development)
+- **Full-Stack Web Development** (Java-based frameworks)
 - **Java Development** (Udemy Course)
-- **Data Structures and Algorithms** (Geeks for Geeks Self-Paced)
-- **Machine Learning and Deep Learning** (NPTEL)
-- **Introduction to Quantum Computing:Quantum Algorithms and Qiskit** (NPTEL)
+- **Data Structures and Algorithms** (Open-sources)
 
 ---
 
@@ -90,10 +82,9 @@ I am a passionate developer based in **Bhopal**. I love building tools that make
 ---
 
 ## 🎯 **My Goals & Aspirations**  
-✔ **Become a Java & DSA expert** for coding interviews & real-world problem-solving <br>
-✔ **Exploring the quantum computing and learn its potensial** <br>
+✔ **Become Full Stack developer** for coding interviews & real-world problem-solving <br>
 ✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
-✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
+✔ **Getting tech job** in a domain that aligns with my skills and interests  
 ✔ **Connect with passionate developers** and contribute to the global tech community
 
 ---
